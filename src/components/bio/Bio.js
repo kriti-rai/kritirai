@@ -26,7 +26,7 @@ const Bio = () => {
           </p>
           <p>
             In her spare time, Kriti is either attempting to beat her last PR at the gym or to strike a new yoga asana. She enjoys hiking but prefers backpacking more. She also loves tending to her plant babies and does this weird thing of talking to them sometimes.
-            One of her many passions is taking photographs and she maintains an unofficial photography portfolio <a href="https://kritirai.carbonmade.com" target="blank">here</a>.
+            One of her many passions is taking photographs and she maintains an unofficial photography portfolio <a href="https://vsco.co/kriti-rai/gallery" target="blank">here</a>.
           </p>
           <p>
             Feel free to reach out at <a a href="mailto:kriti.rai@gmail.com">kriti.rai@gmail.com</a> if you'd like to connect.
